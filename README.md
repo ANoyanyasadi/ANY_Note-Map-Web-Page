@@ -9,8 +9,6 @@
 
 
 
-<img src="./GIF.gif " width="auto">
-
 
 
 
